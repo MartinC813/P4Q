@@ -1,3 +1,5 @@
+Este es el resultado de un desafio planteado por la UCU, el cual, con un equipo de estudiantes resolvimos. Nos dividimos en un equipo de front, otro de back, DevOps y varios PMs.
+
 ***Crear un proyecto***
 
 Primero tenes que tener Nodejs instalado y actualizado (al menos versión 18). https://nodejs.org/en .
